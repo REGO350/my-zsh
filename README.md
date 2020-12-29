@@ -1,6 +1,6 @@
 # my-zsh
 
-Codes:
+Codes:  
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" 
 git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k  
 brew install zsh-syntax-highlighting  
